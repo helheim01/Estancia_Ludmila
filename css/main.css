@@ -878,6 +878,8 @@ footer {
 
     .navbar-logo img {
         height: 75px;
+        margin-left: 0;
+        
     }
 
     .nav-toggle { display: none; }
