@@ -1176,6 +1176,31 @@ footer {
 .form-input::placeholder { color: rgba(248,244,238,0.4); }
 .form-input:focus { border-color: var(--gold); }
 
+.contato-info .contato-detail {
+    padding: 1.4rem 1.6rem;
+    gap: 1.4rem;
+}
+
+.contato-info .contato-detail-icon {
+    width: 48px;
+    height: 48px;
+}
+
+.contato-info .contato-detail-icon svg {
+    width: 15px;
+    height: 15px;
+}
+
+.contato-info .contato-detail-text strong {
+    font-size: 0.70rem;
+    margin-bottom: 0.30rem;
+}
+
+.contato-info .contato-link,
+.contato-info .contato-detail-text span {
+    font-size: 1rem;
+}
+
 
 /* ─── Horarios ─── */
 .horarios {
